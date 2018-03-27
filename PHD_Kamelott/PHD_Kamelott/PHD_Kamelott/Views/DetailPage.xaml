@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PHD_Kamelott.Views.DetailPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Image Source="{Binding MySample.ImageCharacter,Converter={StaticResource StringForImageConverter}}"
+                                   HeightRequest="60"
+                                   WidthRequest="60"
+                                   Margin="5"/>
+            <Label Text="{Binding MySample.TitleSample}"
+                                       LineBreakMode="WordWrap"
+                                       FontSize="Large"></Label>
+            <Label Text="{Binding MySample.Episode}"
+                                       LineBreakMode="NoWrap"
+                                       FontSize="12"></Label>
+            <Button Text="PLAY SONG" Command="{Binding PlaySampleCommand}"/>
+            <Button Text="TEXT TO SPEECH" Command="{Binding PlayTextToSpeech}"/>
+            <Button Text="SHARE" Command="{Binding ShareSample}"/>
+        </StackLayout>
+        
+    </ContentPage.Content>
+</ContentPage>

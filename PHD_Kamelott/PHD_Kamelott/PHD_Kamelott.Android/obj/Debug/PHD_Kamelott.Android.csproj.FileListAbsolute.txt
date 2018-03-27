@@ -1,0 +1,230 @@
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\bin\Debug\PHD_Kamelott.Android.dll
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\bin\Debug\PHD_Kamelott.Android.pdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\bin\Debug\com.companyname.PHD_Kamelott.apk
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\bin\Debug\com.companyname.PHD_Kamelott-Signed.apk
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\bin\Debug\PHD_Kamelott.dll
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\bin\Debug\PHD_Kamelott.pdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\PHD_Kamelott.Android.csprojResolveAssemblyReference.cache
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\PHD_Kamelott.Android.csproj.CoreCompileInputs.cache
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\PHD_Kamelott.Android.csproj.CopyComplete
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\PHD_Kamelott.Android.dll
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\PHD_Kamelott.Android.pdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\android\bin\com.companyname.PHD_Kamelott.apk
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\res\drawable\icon.png
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\res\values\styles.xml
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\R.cs.flag
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\uploadflags.txt
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\bin\Debug\Mono.Android.pdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\bin\Debug\mscorlib.pdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\bin\Debug\Plugin.Share.Abstractions.pdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\bin\Debug\Plugin.SimpleAudioPlayer.Abstractions.pdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\bin\Debug\Plugin.TextToSpeech.Abstractions.pdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\bin\Debug\System.Core.pdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\bin\Debug\System.pdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\bin\Debug\System.Xml.pdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\bin\Debug\System.Xml.Linq.pdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\bin\Debug\System.Net.Http.pdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\bin\Debug\System.Data.pdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\bin\Debug\System.Numerics.pdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\bin\Debug\System.Transactions.pdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\bin\Debug\Mono.Data.Tds.pdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\bin\Debug\Mono.Security.pdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\bin\Debug\System.IO.Compression.pdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\bin\Debug\System.IO.Compression.FileSystem.pdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\bin\Debug\System.Web.Services.pdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\linksrc\Mono.Android.pdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\linksrc\mscorlib.pdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\linksrc\PHD_Kamelott.pdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\linksrc\Plugin.Share.Abstractions.pdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\linksrc\Plugin.SimpleAudioPlayer.Abstractions.pdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\linksrc\Plugin.TextToSpeech.Abstractions.pdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\linksrc\System.Core.pdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\linksrc\System.pdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\linksrc\System.Xml.pdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\linksrc\System.Xml.Linq.pdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\linksrc\System.Net.Http.pdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\linksrc\System.Data.pdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\linksrc\System.Numerics.pdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\linksrc\System.Transactions.pdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\linksrc\Mono.Data.Tds.pdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\linksrc\Mono.Security.pdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\linksrc\System.IO.Compression.pdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\linksrc\System.IO.Compression.FileSystem.pdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\linksrc\System.Web.Services.pdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\bin\Debug\Plugin.Share.dll.mdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\bin\Debug\Plugin.SimpleAudioPlayer.dll.mdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\bin\Debug\Plugin.TextToSpeech.dll.mdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\linksrc\PHD_Kamelott.Android.dll.mdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\linksrc\FormsViewGroup.dll.mdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\linksrc\Plugin.Share.dll.mdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\linksrc\Plugin.SimpleAudioPlayer.dll.mdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\linksrc\Plugin.TextToSpeech.dll.mdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\linksrc\Xamarin.Forms.Core.dll.mdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\linksrc\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\bin\Debug\PHD_Kamelott.Android.dll.mdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\android\assets\PHD_Kamelott.Android.dll.mdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\android\assets\Plugin.Share.dll.mdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\android\assets\Plugin.SimpleAudioPlayer.dll.mdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\android\assets\Plugin.TextToSpeech.dll.mdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\android\assets\Mono.Android.pdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\android\assets\Mono.Data.Tds.pdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\android\assets\Mono.Security.pdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\android\assets\mscorlib.pdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\android\assets\PHD_Kamelott.pdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\android\assets\Plugin.Share.Abstractions.pdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\android\assets\Plugin.SimpleAudioPlayer.Abstractions.pdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\android\assets\Plugin.TextToSpeech.Abstractions.pdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\android\assets\System.Core.pdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\android\assets\System.Data.pdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\android\assets\System.IO.Compression.FileSystem.pdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\android\assets\System.IO.Compression.pdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\android\assets\System.Net.Http.pdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\android\assets\System.Numerics.pdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\android\assets\System.pdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\android\assets\System.Transactions.pdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\android\assets\System.Web.Services.pdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\android\assets\System.Xml.Linq.pdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\android\assets\System.Xml.pdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\bin\Debug\PHD_Kamelott.Android.dll
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\bin\Debug\PHD_Kamelott.Android.pdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\bin\Debug\com.companyname.PHD_Kamelott.apk
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\bin\Debug\com.companyname.PHD_Kamelott-Signed.apk
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\bin\Debug\PHD_Kamelott.dll
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\bin\Debug\PHD_Kamelott.pdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\PHD_Kamelott.Android.csprojResolveAssemblyReference.cache
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\PHD_Kamelott.Android.csproj.CoreCompileInputs.cache
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\PHD_Kamelott.Android.csproj.CopyComplete
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\PHD_Kamelott.Android.dll
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\PHD_Kamelott.Android.pdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\android\bin\com.companyname.PHD_Kamelott.apk
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\res\drawable\icon.png
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\res\values\styles.xml
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\R.cs.flag
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\uploadflags.txt
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\bin\Debug\Mono.Android.pdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\bin\Debug\Mono.Data.Tds.pdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\bin\Debug\Mono.Security.pdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\bin\Debug\mscorlib.pdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\bin\Debug\Plugin.Share.Abstractions.pdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\bin\Debug\Plugin.SimpleAudioPlayer.Abstractions.pdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\bin\Debug\Plugin.TextToSpeech.Abstractions.pdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\bin\Debug\System.Core.pdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\bin\Debug\System.Data.pdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\bin\Debug\System.IO.Compression.FileSystem.pdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\bin\Debug\System.IO.Compression.pdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\bin\Debug\System.Net.Http.pdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\bin\Debug\System.Numerics.pdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\bin\Debug\System.pdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\bin\Debug\System.Transactions.pdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\bin\Debug\System.Web.Services.pdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\bin\Debug\System.Xml.Linq.pdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\bin\Debug\System.Xml.pdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\bin\Debug\PHD_Kamelott.Android.dll.mdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\bin\Debug\Plugin.Share.dll.mdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\bin\Debug\Plugin.SimpleAudioPlayer.dll.mdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\bin\Debug\Plugin.TextToSpeech.dll.mdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\android\assets\PHD_Kamelott.Android.dll.mdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\android\assets\Plugin.Share.dll.mdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\android\assets\Plugin.SimpleAudioPlayer.dll.mdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\android\assets\Plugin.TextToSpeech.dll.mdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\android\assets\Mono.Android.pdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\android\assets\Mono.Data.Tds.pdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\android\assets\Mono.Security.pdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\android\assets\mscorlib.pdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\android\assets\PHD_Kamelott.pdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\android\assets\Plugin.Share.Abstractions.pdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\android\assets\Plugin.SimpleAudioPlayer.Abstractions.pdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\android\assets\Plugin.TextToSpeech.Abstractions.pdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\android\assets\System.Core.pdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\android\assets\System.Data.pdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\android\assets\System.IO.Compression.FileSystem.pdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\android\assets\System.IO.Compression.pdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\android\assets\System.Net.Http.pdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\android\assets\System.Numerics.pdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\android\assets\System.pdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\android\assets\System.Transactions.pdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\android\assets\System.Web.Services.pdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\android\assets\System.Xml.Linq.pdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\android\assets\System.Xml.pdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\linksrc\FormsViewGroup.dll.mdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\linksrc\PHD_Kamelott.Android.dll.mdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\linksrc\Plugin.Share.dll.mdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\linksrc\Plugin.SimpleAudioPlayer.dll.mdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\linksrc\Plugin.TextToSpeech.dll.mdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\linksrc\Xamarin.Forms.Core.dll.mdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\linksrc\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\linksrc\Mono.Android.pdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\linksrc\Mono.Data.Tds.pdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\linksrc\Mono.Security.pdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\linksrc\mscorlib.pdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\linksrc\PHD_Kamelott.pdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\linksrc\Plugin.Share.Abstractions.pdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\linksrc\Plugin.SimpleAudioPlayer.Abstractions.pdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\linksrc\Plugin.TextToSpeech.Abstractions.pdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\linksrc\System.Core.pdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\linksrc\System.Data.pdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\linksrc\System.IO.Compression.FileSystem.pdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\linksrc\System.IO.Compression.pdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\linksrc\System.Net.Http.pdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\linksrc\System.Numerics.pdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\linksrc\System.pdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\linksrc\System.Transactions.pdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\linksrc\System.Web.Services.pdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\linksrc\System.Xml.Linq.pdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\linksrc\System.Xml.pdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\bin\Debug\PHD_Kamelott.Android.dll
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\linksrc\PHD_Kamelott.pdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\linksrc\PHD_Kamelott.Android.dll.mdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\linksrc\FormsViewGroup.dll.mdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\linksrc\Plugin.Share.dll.mdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\linksrc\Plugin.SimpleAudioPlayer.dll.mdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\linksrc\Plugin.TextToSpeech.dll.mdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\linksrc\Xamarin.Forms.Core.dll.mdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott.Android\obj\Debug\linksrc\Xamarin.Forms.Xaml.dll.mdb
