@@ -1,0 +1,45 @@
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott\bin\Debug\netstandard2.0\PHD_Kamelott.deps.json
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott\bin\Debug\netstandard2.0\PHD_Kamelott.dll
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott\bin\Debug\netstandard2.0\PHD_Kamelott.pdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott\obj\Debug\netstandard2.0\PHD_Kamelott.csproj.CoreCompileInputs.cache
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott\obj\Debug\netstandard2.0\PHD_Kamelott.App.xaml.g.cs
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott\obj\Debug\netstandard2.0\PHD_Kamelott.MainPage.xaml.g.cs
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott\obj\Debug\netstandard2.0\PHD_Kamelott.Views.DetailPage.xaml.g.cs
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott\obj\Debug\netstandard2.0\PHD_Kamelott.Views.MyMD.xaml.g.cs
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott\obj\Debug\netstandard2.0\PHD_Kamelott.Views.MyMDDetail.xaml.g.cs
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott\obj\Debug\netstandard2.0\PHD_Kamelott.Views.MyMDMaster.xaml.g.cs
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott\obj\Debug\netstandard2.0\PHD_Kamelott.AssemblyInfoInputs.cache
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott\obj\Debug\netstandard2.0\PHD_Kamelott.AssemblyInfo.cs
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott\obj\Debug\netstandard2.0\PHD_Kamelott.dll
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott\obj\Debug\netstandard2.0\PHD_Kamelott.pdb
+C:\Users\Dom\source\repos\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott\obj\Debug\netstandard2.0\PHD_Kamelott.csprojResolveAssemblyReference.cache
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott\bin\Debug\netstandard2.0\PHD_Kamelott.deps.json
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott\bin\Debug\netstandard2.0\PHD_Kamelott.dll
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott\bin\Debug\netstandard2.0\PHD_Kamelott.pdb
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott\obj\Debug\netstandard2.0\PHD_Kamelott.csprojResolveAssemblyReference.cache
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott\obj\Debug\netstandard2.0\PHD_Kamelott.csproj.CoreCompileInputs.cache
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott\obj\Debug\netstandard2.0\PHD_Kamelott.App.xaml.g.cs
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott\obj\Debug\netstandard2.0\PHD_Kamelott.MainPage.xaml.g.cs
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott\obj\Debug\netstandard2.0\PHD_Kamelott.Views.DetailPage.xaml.g.cs
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott\obj\Debug\netstandard2.0\PHD_Kamelott.Views.MyMD.xaml.g.cs
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott\obj\Debug\netstandard2.0\PHD_Kamelott.Views.MyMDDetail.xaml.g.cs
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott\obj\Debug\netstandard2.0\PHD_Kamelott.Views.MyMDMaster.xaml.g.cs
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott\obj\Debug\netstandard2.0\PHD_Kamelott.AssemblyInfoInputs.cache
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott\obj\Debug\netstandard2.0\PHD_Kamelott.AssemblyInfo.cs
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott\obj\Debug\netstandard2.0\PHD_Kamelott.dll
+C:\Users\Ludovic TRAPEAU\Desktop\Module Xamarin\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott\obj\Debug\netstandard2.0\PHD_Kamelott.pdb
+C:\Users\Ludovic TRAPEAU\Documents\GitHub\KaamelotApp\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott\bin\Debug\netstandard2.0\PHD_Kamelott.deps.json
+C:\Users\Ludovic TRAPEAU\Documents\GitHub\KaamelotApp\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott\bin\Debug\netstandard2.0\PHD_Kamelott.dll
+C:\Users\Ludovic TRAPEAU\Documents\GitHub\KaamelotApp\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott\bin\Debug\netstandard2.0\PHD_Kamelott.pdb
+C:\Users\Ludovic TRAPEAU\Documents\GitHub\KaamelotApp\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott\obj\Debug\netstandard2.0\PHD_Kamelott.csprojResolveAssemblyReference.cache
+C:\Users\Ludovic TRAPEAU\Documents\GitHub\KaamelotApp\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott\obj\Debug\netstandard2.0\PHD_Kamelott.csproj.CoreCompileInputs.cache
+C:\Users\Ludovic TRAPEAU\Documents\GitHub\KaamelotApp\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott\obj\Debug\netstandard2.0\PHD_Kamelott.App.xaml.g.cs
+C:\Users\Ludovic TRAPEAU\Documents\GitHub\KaamelotApp\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott\obj\Debug\netstandard2.0\PHD_Kamelott.MainPage.xaml.g.cs
+C:\Users\Ludovic TRAPEAU\Documents\GitHub\KaamelotApp\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott\obj\Debug\netstandard2.0\PHD_Kamelott.Views.DetailPage.xaml.g.cs
+C:\Users\Ludovic TRAPEAU\Documents\GitHub\KaamelotApp\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott\obj\Debug\netstandard2.0\PHD_Kamelott.Views.MyMD.xaml.g.cs
+C:\Users\Ludovic TRAPEAU\Documents\GitHub\KaamelotApp\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott\obj\Debug\netstandard2.0\PHD_Kamelott.Views.MyMDDetail.xaml.g.cs
+C:\Users\Ludovic TRAPEAU\Documents\GitHub\KaamelotApp\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott\obj\Debug\netstandard2.0\PHD_Kamelott.Views.MyMDMaster.xaml.g.cs
+C:\Users\Ludovic TRAPEAU\Documents\GitHub\KaamelotApp\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott\obj\Debug\netstandard2.0\PHD_Kamelott.AssemblyInfoInputs.cache
+C:\Users\Ludovic TRAPEAU\Documents\GitHub\KaamelotApp\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott\obj\Debug\netstandard2.0\PHD_Kamelott.AssemblyInfo.cs
+C:\Users\Ludovic TRAPEAU\Documents\GitHub\KaamelotApp\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott\obj\Debug\netstandard2.0\PHD_Kamelott.dll
+C:\Users\Ludovic TRAPEAU\Documents\GitHub\KaamelotApp\PHD_Kamelott\PHD_Kamelott\PHD_Kamelott\obj\Debug\netstandard2.0\PHD_Kamelott.pdb
